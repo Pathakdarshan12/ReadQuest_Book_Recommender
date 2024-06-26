@@ -1,7 +1,13 @@
 # ReadQuest: A Personalized Book Recommendation System
 
 <p align="center">
-    <img src="assets/ReadQuest.jpg" />
+    <div class="row">
+        <img src="assets/ReadQuest.jpg" width="90%" />
+    </div>
+    <div class="row">
+        <img src="assets/ReadQuest.jpg" width="45%" />
+        <img src="assets/ReadQuest.jpg" width="45%" />
+    </div>
 </p>
 
 ## Project Overview

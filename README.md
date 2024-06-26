@@ -5,8 +5,8 @@
         <img src="assets/ReadQuest.jpg" width="90%" />
     </div>
     <div class="row">
-        <img src="assets/screenshot1.jpg" width="45%" />
-        <img src="assets/screenshot2.jpg" width="45%" />
+        <img src="assets/screenshot1.png" width="45%" />
+        <img src="assets/screenshot2.png" width="45%" />
     </div>
 </p>
 

@@ -19,7 +19,7 @@ ReadQuest is an intelligent book recommendation system designed to help users di
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ReadQuest_Book_Recommender.git
+    git clone https://github.com/Pathakdarshan12/ReadQuest_Book_Recommender.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -112,3 +112,4 @@ This project is licensed under the MIT License.
 ---
 
 Enjoy discovering your next favorite book with ReadQuest!
+
